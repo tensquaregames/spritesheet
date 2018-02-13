@@ -1,0 +1,10 @@
+test/TestMain.hx
+test/TestSuite.hx
+test/ExampleTest.hx
+
+out
+
+spritesheet.iml
+
+.idea
+.DS_Store
